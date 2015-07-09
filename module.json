@@ -1,0 +1,15 @@
+{
+    "name": "Theme2014",
+    "alias": "theme2014",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "YC\\Theme2014\\Providers\\Theme2014ServiceProvider"
+    ],
+    "aliases":{},
+    "files": [
+        "start.php"
+    ]
+}
